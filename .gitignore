@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.venv/
+.env.local
+logs/
+airflow.db
+standalone_admin_password.txt
+astro.exe
+exercise-6-orchestration.pdf
